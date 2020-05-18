@@ -109,7 +109,7 @@ Para executar o webpack, ultilize o seguinte comando:
 npx webpack --mode development
 ```
 
-Exelente, para finalizar precisamos só instalar uma ferramenta para monitorar as mudanças no código, para isso vamos instalar o **'webpack-dev-server'**
+Excelente, para finalizar precisamos só instalar uma ferramenta para monitorar as mudanças no código, para isso vamos instalar o **'webpack-dev-server'**
 
 `npm install webpack-dev-server --save-dev`
 
